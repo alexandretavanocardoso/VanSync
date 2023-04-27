@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanSync", "VanSync\VanSync.csproj", "{51F19B9A-B543-4CA5-A830-075E583CE226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanSyncTests", "VanSyncTests\VanSyncTests.csproj", "{837865A5-918A-49BD-8845-9AB8321E8967}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{EEAEE6C5-F6AA-4E40-9F50-98E11DB95D6D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F19B9A-B543-4CA5-A830-075E583CE226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F19B9A-B543-4CA5-A830-075E583CE226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F19B9A-B543-4CA5-A830-075E583CE226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F19B9A-B543-4CA5-A830-075E583CE226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837865A5-918A-49BD-8845-9AB8321E8967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837865A5-918A-49BD-8845-9AB8321E8967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837865A5-918A-49BD-8845-9AB8321E8967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837865A5-918A-49BD-8845-9AB8321E8967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F1F4E33-32C5-41CA-AEC9-F2C4A0C80AEE}
+	EndGlobalSection
+EndGlobal
